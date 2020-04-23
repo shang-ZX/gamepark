@@ -1,4 +1,4 @@
-# vuecli3
+# demo  https://shang-zx.github.io/gamepark/dist/index.html
 
 ## Project setup
 ```
